@@ -1,3 +1,3 @@
-# MD: Anisur Rahman || [Go Live Site](https://aranis121.github.io/Travel-Template/)
+# MD: Anisur Rahman || [Go Live Site](https://aranis121.github.io/Fitness/)
 ## SKILLS
-HTML5,CSS3,BOOTSTRAP,JS,FONT AWESOME
+HTML5,CSS3,BOOTSTRAP,JS,FONT AWESOME ICON
